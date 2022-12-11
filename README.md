@@ -1,6 +1,6 @@
 # my-ai-talking-buddy
 
-## Wish to chat freely in a foreign language?
+## Wish to chat freely in a foreign language? 👫💬
 
 This is a **CLI chatbot for learning and practicing the English language**.
 
