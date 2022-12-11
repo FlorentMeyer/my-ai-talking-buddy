@@ -88,7 +88,7 @@ Being able to make a simple yet comprehensive app out of diverse building blocks
 
 We developed our collaborative skills to go straight to the point of building a clean repo and a functional project as quickly as possible.
 
-## What's next for _My AI Talking Buddy_
+## What's next for _My AI Talking Buddy_ ➡📱
 
 The biggest improvement we can think of is to turn it into a **mobile app**, to keep your Buddy in your pocket at all times. This would also allow for a responsive interface, keeping a permanent record of all your conversations, exporting your vocabulary lists to your phone’s notes app - and much more.
 
