@@ -23,7 +23,7 @@ Run `python chatbot.py` to dive into the CLI and start chatting! 😊
 To get started, you will be asked to indicate your name. 
 Then, select your mother tongue and choose a buddy by entering the number associated to it. 
 
-Once you're all set up, there are 2 ways at your disposal to interact with Jack, Mrs. Smith or Arthur: free chatting and commands.
+Once you're all set up, there are 2 ways at your disposal to interact with Jack, Mrs. Smith or Arthur: _free chatting_ and _commands_.
 
 ### Free chatting 📧
 
