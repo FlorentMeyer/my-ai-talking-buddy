@@ -90,7 +90,7 @@ We developed our collaborative skills to go straight to the point of building a 
 
 ## What's next for _My AI Talking Buddy_
 
-The biggest improvement we can think of is to turn it into a mobile app, to keep your Buddy in your pocket at all times. This would also allow for a responsive interface, keeping a permanent record of all your conversations, exporting your vocabulary lists to your phone’s notes app - and much more.
+The biggest improvement we can think of is to turn it into a **mobile app**, to keep your Buddy in your pocket at all times. This would also allow for a responsive interface, keeping a permanent record of all your conversations, exporting your vocabulary lists to your phone’s notes app - and much more.
 
 We have some additional ideas which we would love to build into our Buddy:
 
