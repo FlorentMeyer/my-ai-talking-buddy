@@ -1,0 +1,8 @@
+deep-translator==1.9.1
+numpy==1.23.5
+openai==0.25.0
+requests==2.28.1
+sounddevice==0.4.5
+soundfile==0.11.0
+uberduck==0.0.2 # encountered an error when installing this package, so forked it
+# if error please do : pip install -U git+https://github.com/GreatTommy/uberduck
